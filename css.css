@@ -1,0 +1,83 @@
+header {
+  background-color: #49065e !important;
+}
+
+body {
+  background-color: #313131;
+}
+
+.card {
+  display: flex;
+  height: 300px;
+  border-radius: 8px;
+  padding: 5px;
+}
+
+.card img {
+  object-fit: cover;
+  height: 290px;
+  border-radius: 8px;
+}
+
+.card-text {
+  overflow-y: auto;
+  height: 100px;
+}
+
+.seletor {
+  display: flex;
+  flex-flow: row;
+  width: 40%;
+  align-content: space-between;
+  margin-left: 10%;
+  padding-top: 10px;
+}
+
+.seletor > div {
+  text-align: center;
+  width: 50%;
+}
+
+#categoria {
+  padding-top: 5px;
+  padding-left: 70px;
+}
+.btn {
+  background-color: #49065e !important;
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #888;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+@media (max-width: 1024px) {
+  .seletor {
+    display: flex;
+    flex-flow: column;
+    width: 100%;
+    padding-top: 10px;
+    margin-left: 0%;
+  }
+
+  #categoria {
+    padding-top: 5px;
+    padding-left: 0px;
+    text-align: left;
+  }
+}
