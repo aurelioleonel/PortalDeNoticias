@@ -6,6 +6,6 @@ foi adicionado o seletor de catgorias para que as noticias ocorram de acordo oco
 Projeto consumindo a API https://newsapi.org/ . A ferramenta utiliza é o VScode.</p>
 <p>Criador do projeto: Marcos Aurélio Leonel</p>
 
-<a href="https://aurelioleonel.github.io/projeto-dindin/" target="_blank">CLIQUE AQUI!</a>para ver o exemplo
+<a href="https://aurelioleonel.github.io/projeto-dindin/" target="_blank">CLIQUE AQUI!</a> para ver o exemplo
 
 
