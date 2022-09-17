@@ -9,6 +9,6 @@ Projeto consumindo a API https://newsapi.org/ . A ferramenta utiliza é o VScode
 <p>Devido a política de segurança a pagina não tem acesso a API atraves do GitHubs<p>
 <p>Baixem o projeto e execute atravez do VSCode ou um servidor autenticado<p>
 
-<a href="https://aurelioleonel.github.io/PortalDeNoticias/" target="_blank">CLIQUE AQUI!</a> para ver o exemplo
+
 
 
